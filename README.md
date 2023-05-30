@@ -11,7 +11,7 @@
 
 <img src="https://media.giphy.com/media/MiAekUF3rk2G7DnbOA/giphy.gif" width="40" height="40" />  Languages and tools: React/NextJS/Angular
 
-<img src="https://media.giphy.com/media/If6AwvWeeTwDFqwTfP/giphy.gif" width="40" height="40" /> Codewars stats (currently switching to leetcode):         
+<img src="https://media.giphy.com/media/If6AwvWeeTwDFqwTfP/giphy.gif" width="40" height="40" /> Codewars stats (i'm currently switching to leetcode):         
 
   [![Profile badge](https://www.codewars.com/users/Teakovska/badges/large)](https://www.codewars.com/users/Teakovska)
 
