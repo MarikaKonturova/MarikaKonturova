@@ -1,11 +1,19 @@
-### Hi there 👋
+## <img src="https://media.giphy.com/media/mEKKeygSCRhSmXSyN4/giphy.gif" width="40" height="40" />  Hi there
 
-- 🔭 I’m currently working on inctagram from IT-incubator
-- 🌱 I’m currently learning Python & Angular
-- 🥷 My codewars stats: 
+ 
+<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" />  I’m currently working on inctagram from IT-incubator 
 
-[![Profile badge](https://www.codewars.com/users/Teakovska/badges/large)](https://www.codewars.com/users/Teakovska)
 
+
+
+<img src="https://media.giphy.com/media/PX7gMhqcv0rkRoGOCs/giphy.gif" width="40" height="40" /> I’m currently learning Python & Angular
+
+
+<img src="https://media.giphy.com/media/MiAekUF3rk2G7DnbOA/giphy.gif" width="40" height="40" />  My stats: 
+
+ [![Profile badge](https://www.codewars.com/users/Teakovska/badges/large)](https://www.codewars.com/users/Teakovska)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/MarikaKonturova?theme=dark&font=baloo&extension=null)
 
 
 <!--
