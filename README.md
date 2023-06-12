@@ -1,8 +1,7 @@
 ## <img src="https://media.giphy.com/media/mEKKeygSCRhSmXSyN4/giphy.gif" width="40" height="40" />  Hiya there!
 
  
-<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" />  I’m currently working as a mentor at [IT-incubator](https://it-incubator.io/)
-
+<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" />  I’m currently open to new opportunities as a frontend developer
 
 
 
