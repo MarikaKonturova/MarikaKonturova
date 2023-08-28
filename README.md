@@ -16,10 +16,18 @@
 
 
 
+
+
+
 <!--
 - 🧘‍♀️ My leetcode stats: 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/MarikaKonturova?theme=dark&font=baloo&extension=null)
+
+
+GH stats
+[![Marika's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
