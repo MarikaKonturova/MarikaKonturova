@@ -1,32 +1,31 @@
 ## <img src="https://media.giphy.com/media/mEKKeygSCRhSmXSyN4/giphy.gif" width="40" height="40" />  Hiya there!
 
- 
-<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" /> Open to new opportunities as a frontend developer
+<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" /> Frontend developer by day, person who is passionate about programming by all time
 
 
 
-<img src="https://media.giphy.com/media/PX7gMhqcv0rkRoGOCs/giphy.gif" width="40" height="40" /> I’m currently learning Python & Angular
+<img src="https://media.giphy.com/media/MiAekUF3rk2G7DnbOA/giphy.gif" width="40" height="40" /> Frameworks: React/NextJS/Angular
 
-
-<img src="https://media.giphy.com/media/MiAekUF3rk2G7DnbOA/giphy.gif" width="40" height="40" /> Languages and tools: React/NextJS/Angular
+<img src="https://media.giphy.com/media/PX7gMhqcv0rkRoGOCs/giphy.gif" width="40" height="40" /> I’m open to do some funny stuff w/ code
 
 <img src="https://media.giphy.com/media/If6AwvWeeTwDFqwTfP/giphy.gif" width="40" height="40" /> Codewars stats (i'm switching to leetcode):         
 
-  [![Profile badge](https://www.codewars.com/users/Teakovska/badges/large)](https://www.codewars.com/users/Teakovska)
 
 
 
-
+ [![Profile badge](https://www.codewars.com/users/Teakovska/badges/large)](https://www.codewars.com/users/Teakovska)
 
 
 <!--
 - 🧘‍♀️ My leetcode stats: 
-
+Frontend developer by day, CS-student by evening, person who is passionate about the code by all time
 ![LeetCode Stats](https://leetcode.card.workers.dev/MarikaKonturova?theme=dark&font=baloo&extension=null)
-
 
 GH stats
 [![Marika's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats)
+
+
+
 
 
 
