@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/mEKKeygSCRhSmXSyN4/giphy.gif" width="40" height="40" />  Hiya there!
 
-<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" /> Frontend developer with 3+ years experience
+<img src="https://media.giphy.com/media/FmIeqY1jqzDjlCQ3sq/giphy.gif" width="40" height="40" /> Frontend developer 
 
 
 
